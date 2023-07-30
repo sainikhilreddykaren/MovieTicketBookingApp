@@ -1,0 +1,207 @@
+{
+  "movieDetails": [
+    {
+      "id": 1,
+      "title": "Avengers The End Game",
+      "releaseDate": "25-MAY-2023",
+      "duration": "150 min",
+      "ratings": 4.5,
+      "imageUrl": "https://hub.salford.ac.uk/visualcognition/wp-content/uploads/sites/177/2021/06/avengers-endgame.jpg",
+      "genre": "Action",
+      "movieType": "latest"
+    },
+    {
+      "id": 2,
+      "title": "SpiderMan HomeComming",
+      "releaseDate": "26-MAY-2023",
+      "duration": "140 min",
+      "ratings": 4.6,
+      "imageUrl": "https://wallpaperaccess.com/full/243562.jpg",
+      "genre": "Action",
+      "movieType": "latest"
+    },
+    {
+      "id": 3,
+      "title": "Fast and Furious",
+      "releaseDate": "27-MAY-2023",
+      "duration": "180 min",
+      "ratings": 4.7,
+      "imageUrl": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2021/04/fast-and-furious-fast-fridays-social-featured.jpg",
+      "genre": "Action & Drama",
+      "movieType": "latest"
+    },
+    {
+      "id": 4,
+      "title": "RRR",
+      "releaseDate": "27-MAY-2023",
+      "duration": "155 min",
+      "ratings": 4.8,
+      "imageUrl": "https://m.economictimes.com/thumb/msid-96758008,width-1600,height-900,resizemode-4,imgsize-105322/rrr-3.jpg",
+      "genre": "Drama",
+      "movieType": "latest"
+    },
+    {
+      "id": 5,
+      "title": "Death Wish",
+      "releaseDate": "29-MAY-2023",
+      "duration": "135 min",
+      "ratings": 4.4,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwUjndeHG_6_2X63J4N4XA4FNLlcJ0SwfRYtRzMM9CPukKaHSY94I88NYrVNG14ml03MQ&usqp=CAU",
+      "genre": "Action",
+      "movieType": "latest"
+    },
+    {
+      "id": 6,
+      "title": "Insidious: The Red Door",
+      "releaseDate": "20-JUN-2023",
+      "duration": "122 min",
+      "ratings": 4.3,
+      "imageUrl": "https://i.ytimg.com/vi/JX6vaLptFl0/maxresdefault.jpg",
+      "genre": "Horror",
+      "movieType": "upcomming",
+      "description": "Insidious: The Red Door is an upcoming American supernatural horror film directed by Patrick Wilson (in his directorial debut) with a screenplay by Scott Teems from a story by Leigh Whannell. It is a direct sequel to Insidious (2010) and Insidious: Chapter 2 (2013), and the fifth installment in the Insidious franchise."
+    },
+    {
+      "id": 7,
+      "title": "Fast X",
+      "releaseDate": "25-JUN-2023",
+      "duration": "143 min",
+      "ratings": 4.2,
+      "imageUrl": "https://i.ytimg.com/vi/aOb15GVFZxU/maxresdefault.jpg",
+      "genre": "Drama & Action",
+      "movieType": "upcomming",
+      "description": "Fast X (also known as Fast & Furious 10) is a 2023 American action film directed by Louis Leterrier from a screenplay written by Dan Mazeau and Justin Lin, who also co-wrote the story with Zach Dean. It is the sequel to F9 (2021), the tenth main installment, and the eleventh installment overall in the Fast & Furious franchise"
+    },
+    {
+      "id": 8,
+      "title": "Mission Impossible",
+      "releaseDate": "21-JUN-2023",
+      "duration": "157 min",
+      "ratings": 4,
+      "imageUrl": "https://klling.files.wordpress.com/2015/09/mi5-poster.png",
+      "genre": "Action",
+      "movieType": "upcomming",
+      "description": "Mission: Impossible – Dead Reckoning Part One is an upcoming American action spy film directed and produced by Christopher McQuarrie, who also co-wrote the screenplay with Erik Jendresen. It is the sequel to Mission: Impossible – Fallout (2018)"
+    },
+    {
+      "id": 9,
+      "title": "The Flash",
+      "releaseDate": "20-JUN-2023",
+      "duration": "162 min",
+      "ratings": 4.7,
+      "imageUrl": "https://assets-in.bmscdn.com/discovery-catalog/events/et00047401-wzhnvqhadp-landscape.jpg",
+      "genre": "Drama & Comedy",
+      "movieType": "upcomming",
+      "description": "The Flash is an upcoming American superhero film based on the DC Comics character of the same name. Produced by DC Studios, Double Dream, and the Disco Factory, and set for distribution by Warner Bros. Pictures"
+    },
+    {
+      "id": 10,
+      "title": "The Marvels",
+      "releaseDate": "13-JUN-2023",
+      "duration": "148 min",
+      "ratings": 4,
+      "imageUrl": "https://deadline.com/wp-content/uploads/2023/04/the-marvels-movie-trailer.jpg?w=1024",
+      "genre": "Action",
+      "movieType": "upcomming",
+      "description": "The Marvels is an upcoming American superhero film based on Marvel Comics featuring the characters Carol Danvers / Captain Marvel, Monica Rambeau, and Kamala Khan / Ms. Marvel. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, "
+    },
+    {
+      "id": 11,
+      "title": "The Call of the Wild",
+      "releaseDate": "25-MAY-2023",
+      "duration": "119 min",
+      "ratings": 4.1,
+      "imageUrl": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/C0AD93309AA5C47BBB41BE8D8FAE539C1FD55C6617CB956540C34D8A1E4BB61A/scale?width=1200&aspectRatio=1.78&format=jpeg",
+      "genre": "Drama",
+      "movieType": "recommendations"
+    },
+    {
+      "id": 12,
+      "title": "Avatar:2",
+      "releaseDate": "25-MAY-2023",
+      "duration": "174 min",
+      "ratings": 4.7,
+      "imageUrl": "https://thetechzone.online/wp-content/uploads/2022/01/Everything-we-know-so-far-about-Avatar-2.jpg",
+      "genre": "Drama & Action",
+      "movieType": "recommendations"
+    },
+    {
+      "id": 13,
+      "title": "Joker",
+      "releaseDate": "25-MAY-2023",
+      "duration": "170 min",
+      "ratings": 4,
+      "imageUrl": "https://images.thedirect.com/media/article_full/joker-2-harley-quinn.jpg",
+      "genre": "Horror & Comedy",
+      "movieType": "recommendations"
+    },
+    {
+      "id": 14,
+      "title": "Stuart Little 2",
+      "releaseDate": "25-MAY-2023",
+      "duration": "160 min",
+      "ratings": 4.3,
+      "imageUrl": "https://i.ytimg.com/vi/t9vWi2ItxMc/maxresdefault.jpg",
+      "genre": "Comedy",
+      "movieType": "recommendations"
+    },
+    {
+      "id": 15,
+      "title": "The Angry Birds",
+      "releaseDate": "25-MAY-2023",
+      "duration": "159 min",
+      "ratings": 4.1,
+      "imageUrl": "https://static.standard.co.uk/s3fs-public/thumbnails/image/2015/07/30/16/angry-birds-2.jpg?width=968&auto=webp&quality=50&crop=968%3A645%2Csmart",
+      "genre": "Children's Film",
+      "movieType": "recommendations"
+    }
+  ],
+  "nearByEvents": [
+    {
+      "id": 1,
+      "title": "Music Concert",
+      "location": "Central Park",
+      "date": "June 15, 2023",
+      "image": "https://images.cnbctv18.com/wp-content/uploads/2019/03/2019-03-29T110253Z_1_MTZSPDEF3T4K0OK6_RTRFIPP_4_CULTURE-EDITORIAL-MUSIC-PHOTOGRAPHY-1019x573.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Food Festival",
+      "location": "Downtown Square",
+      "date": "July 8, 2023",
+      "image": "https://dmrqkbkq8el9i.cloudfront.net/Pictures/480xany/7/6/4/161764_foodexhibitionva_644246_crop.jpeg"
+    },
+    {
+      "id": 3,
+      "title": "Art Exhibition",
+      "location": "City Gallery",
+      "date": "August 20, 2023",
+      "image": "https://www.treebo.com/blog/wp-content/uploads/2018/04/Art-Galleries-in-Hyderabad.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Dance Show",
+      "location": "Down Town",
+      "date": "August 22, 2023",
+      "image": "https://c8.alamy.com/comp/TCN55T/beijing-china-8th-june-2019-artists-perform-dunhuang-dance-at-beijing-dance-academy-in-beijing-capital-of-china-june-8-2019-credit-pan-xuxinhuaalamy-live-news-TCN55T.jpg"
+    }
+  ],
+  "transactions": [
+    {
+      "id": 1,
+      "movieName": "Avenegers The end Game",
+      "seats": 3,
+      "date": "01-JUN-23",
+      "time": "2:00 PM",
+      "bookingId": 566778
+    },
+    {
+      "movieName": "The Call of the Wild",
+      "date": "9/6/2023",
+      "seats": "10",
+      "time": "2:00 PM",
+      "bookingId": 799185,
+      "id": 2
+    }
+  ]
+}
